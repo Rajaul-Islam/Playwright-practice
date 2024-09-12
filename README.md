@@ -46,5 +46,7 @@ npx playwright test --headed
 
 - **Debug a specific test file:**
 npx playwright test example.spec.js --debug
+```
+
 
 ##For more detailed test configurations and additional Playwright features, please refer to the Playwright documentation.
